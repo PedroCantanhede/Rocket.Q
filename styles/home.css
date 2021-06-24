@@ -39,7 +39,7 @@ main h2 {
 }
 
 input {
-    border: .2rem solid var(--grey-blue);
+    border: .2rem solid var(--gray-blue);
     padding: 0 1.6rem;
 }
 
@@ -56,7 +56,7 @@ input, button, .button {
 }
 
 .separator div:nth-child(2) {
-    color: var(--grey-blue);
+    color: var(--gray-blue);
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     padding: 0 1.35rem;
@@ -65,7 +65,7 @@ input, button, .button {
 
 .separator div:nth-child(1),
 .separator div:nth-child(3) {
-    background: var(--grey-blue);
+    background: var(--gray-blue);
     width: 100%;
     height: 1px;
 }
