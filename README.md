@@ -23,7 +23,7 @@ O Rocket.Q é uma aplicação realizada na Next Level Week Together da Rocketsea
   <img alt="Rocket.Q" src="./github/rocketq.png" width="100%">
 </p>
 
-# :tools: Tecnologias
+# 🔨 Tecnologias
 
 💻 HTML
 
